@@ -25,7 +25,6 @@ if __name__ == "__main__":
 
     model_name_list = ["ImprovedLeNet_0", "ImprovedLeNet_3", "ImprovedLeNet_6", "ImprovedLeNet_7"]
 
-
     font1 = {'size': 15,
              }
 
