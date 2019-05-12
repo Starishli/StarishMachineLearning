@@ -6,6 +6,7 @@ RESULT_DIR = os.path.join(SOURCE_DIR, 'result')
 CACHE_DIR = os.path.join(SOURCE_DIR, 'cache')
 LOG_DIR = os.path.join(SOURCE_DIR, 'log')
 
+FIG_DIR = r"/home/starishlee/Documents/EE228@SJTU/project/fig"
 
 def mkdir(path):
     folder = os.path.exists(path)
